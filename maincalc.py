@@ -1,5 +1,5 @@
 import math
-##///Simple Area Calculator///
+##///Simple Area-Perimeter Calculator///
 # 1 - Greet the user using a greet() function
 def greet():
     """ Simple Greeting for the user """
